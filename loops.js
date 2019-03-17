@@ -16,12 +16,10 @@ function whileLoop(num){
   }
   return "done"
 }
-
+ 
 var i = 0
-var num = 5
-
 function incrementVariable() {
-  i = i++
+  i =  i + 1
   return i;
 }
 
